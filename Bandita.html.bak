@@ -13,7 +13,23 @@
         <h1>My Family's Dog Bandita</h1>
 		<h2>Breed:Chihuahua</h2>
         <p>Here is my family's dog Bandita, I know chihuahua's have a repution for being yappy and unfriendly, when it comes to Dita<br>
-		that could not be further from the truch. She is very friendly, very mild mannered, and polite. She like to be walked and is very playful, but also likes to relax, be held,</br>
+		that could not be further from the truth. She is very friendly, very mild mannered, and polite. She likes to be walked and is very playful, but also likes to relax, be held,</br>
 		and sit on people laps</p>
-		<img src="images/dita.sitting.jpg" alt="bandita the tiny chihuahua dog">
+		<img src="images/dita.sitting.jpg" width="600" height="800" alt="bandita the tiny chihuahua dog">
+		<h3>Bandita's Likes</h3>
+		<ul>
+            <li>Food of all kinds!</li>
+			<img src="images/dita.turkey.jpg" alt="bandita at table with turkey leg">
+            <li>More food of all kinds!</li>
+			<img src="images/dita.vanilla.jpg" alt="bandita eating from a spoon vanilla frosty">
+			<img src="images/dita.vanilla.mouth.jpg" alt="bandita sitting on couch with vanilla frosty on lower lip">
+			<li>Walkies!</li>
+			<img src="images/dita.walk" alt="bandita going for a walk in the mojave desert">
+			<img src="images/dita.walk.2.jpg" alt="bandita going for a walk on sidewalk on wet day">
+            <li>Relaxing and sleeping</li>
+			<img src="images/dita.bed.jpg" alt="bandita sleeping in her bed with blankets over her">
+			<img src="images/dita.bed.2.jpg" alt="bandita sitting up in bed">
+			<img src="images/dita.yard.puppies.jpg" alt="bandita in desert backyard with two other small dogs,white sox and ruby">
+			<li>Traveling</li>
+        </ul>
 </body></html>
