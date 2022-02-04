@@ -1,0 +1,19 @@
+<html lang="en"><head>
+        <meta charset="utf-8">
+        <title>Project 1</title>
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="index.html" title="Home">Home</a></li>
+                <li><a href="page2.html" title="Page 2">Bandita</a></li>
+                <li><a href="page3.html" title="Page 3">Book_list</a></li>
+            </ul>
+        </nav>
+        <h1>My Family's Dog Bandita</h1>
+		<h2>Breed:Chihuahua</h2>
+        <p>Here is my family's dog Bandita, I know chihuahua's have a repution for being yappy and unfriendly, when it comes to Dita<br>
+		that could not be further from the truch. She is very friendly, very mild mannered, and polite. She like to be walked and is very playful, but also likes to relax, be held,</br>
+		and sit on people laps</p>
+		<img src="images/dita.sitting.jpg" alt="bandita the tiny chihuahua dog">
+</body></html>
