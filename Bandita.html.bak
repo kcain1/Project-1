@@ -19,7 +19,7 @@
 		<img src="images/dita.sitting.jpg" width="600" height="800" alt="bandita the tiny chihuahua dog">
 		<h3>Bandita's Likes</h3>
 		
-		<section id="dita likes">
+		<section id="dita_likes">
             <p>Food of all kinds!</p>
               <img src="images/dita.turkey.jpg" width="600" height="800" alt="bandita at table with turkey leg">
             <p>More food of all kinds!</p>
